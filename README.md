@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 基于最新 create-react-app 创建
-
+[todo示例](https://www.redux.org.cn/docs/basics) 
 ```
 npm install -g create-react-app
 
