@@ -1,6 +1,3 @@
-/**
- * Created by 0easy-23 on 2017/8/15.
- */
 import React, {Component} from 'react';
 import Todo from './Todo';
 export default class extends Component {
